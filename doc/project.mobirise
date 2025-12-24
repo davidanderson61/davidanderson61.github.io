@@ -66,9 +66,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Volumes/Squid/Users/davidanderson/Downloads/424apttest/doc"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
