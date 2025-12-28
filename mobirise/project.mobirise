@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "424apt",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -58,7 +58,7 @@
     "versionPublish": "6.1.12",
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "4lpqcsky00",
+    "mbrsiteDomain": "qkthyrtlb5",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
