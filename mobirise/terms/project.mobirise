@@ -1,0 +1,148 @@
+{
+  "settings": {
+    "name": "424aptTerms",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "startm5",
+      "title": "StartM5",
+      "titlePreset": "StartM5",
+      "styling": {
+        "primaryColor": "#ffcc33",
+        "secondaryColor": "#ffd7ef",
+        "successColor": "#3a341c",
+        "infoColor": "#320707",
+        "warningColor": "#a0e2e1",
+        "dangerColor": "#ffea64",
+        "mainFont": "Inter Tight",
+        "display1Font": "Lato",
+        "display1Size": "1.6",
+        "display2Font": "Rubik",
+        "display2Size": "1",
+        "display5Font": "Rubik",
+        "display5Size": "1",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Rubik",
+        "display4Size": "1",
+        "isRoundedImages": true,
+        "isRoundedButtons": true,
+        "isLargeButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#767676",
+        "#0f7699",
+        "#ffcc33"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "6.1.12",
+    "siteFonts": [
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Lato', sans-serif",
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "uniqCompNum": 5,
+    "versionPublish": "6.1.12",
+    "favicon": false,
+    "mbrsiteDomain": "dasy8d7ydm",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Volumes/Squid/Users/davidanderson/Downloads/424apttest/docs/terms"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "424 APT Terms of Use",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#0f7699",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#0f7699",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle DIV": {
+              "text-align": "center"
+            }
+          },
+          "_name": "article12",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article12\" group=\"Article\">    \n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"6\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4 mt-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">424 APT<div>TERMS OF USE</div></h3>\n                <h1 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-1\">424 APT<br>TERMS OF USE</h1>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">\n                PLEASE READ THIS TERMS OF USE AGREEMENT CAREFULLY BEFORE ACCESSING OR USING OUR WEBSITE.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "v6GG15uRT1",
+          "_anchor": "article12-2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".mbr-text": {
+              "text-align": "justify"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#0f7699\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\">Thank you for using our website. We're happy you're here. Because this Terms of Use agreement is such an important contract between our users and us, we have tried to make it as clear as possible. Where applicable, you agree to the terms stipulated by the following companies used to register, create, host and secure our website. <br><br><b>Namecheap</b><br><br>Our domain registrar is Namecheap, Inc. See Namecheaps's <a href=\"https://www.namecheap.com/legal/\" class=\"text-primary\" target=\"_blank\">Legal</a>&nbsp;website for more information. <br><br><b>Mobirise</b><br><br>The software used to create this website was provided by Mobirise. See Mobirise's <a href=\"https://mobirise.com/terms.html\" class=\"text-primary\" target=\"_blank\">Terms of Service</a> website for more information.<br><br><b>GitHub</b><br><br>This website is hosted by GitHub, Inc. See the <a href=\"https://docs.github.com/en/site-policy/github-terms/github-terms-of-service\" class=\"text-primary\" target=\"_blank\">GitHub Terms of Service </a>website for more information.<br><br><b>Cloudflare</b><br><br>Our Domain Name Server (DNS) is Cloudflare, Inc.  Secure https web access is also provided by Cloudflare, Inc. See the <a href=\"https://www.cloudflare.com/website-terms/\" class=\"text-primary\" target=\"_blank\">Cloudflare Website and Online Services Terms of Use</a> website for more information.<br><br><b>Google</b><br><br>This website uses Google Maps. Users are bound by the <a href=\"https://maps.google.com/help/terms_maps/\" class=\"text-primary\" target=\"_blank\">Google Maps End User Additional Terms of Service</a>.<br><br><b>Changes in Our Practices</b><br><br>We reserve the right to modify these Terms of Use at any time. If we decide to change our Terms of Use, we will post those changes to these Terms of Use and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br><br>If we make material changes to these Terms of Use, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.<br><br><b>Contacting Our Site</b><br><br>If you have any questions about our Terms of Use, the practices of this Site, or your dealings with this Site, please contact us at:<br><br>424 apt<br>ATTN: Web Team<br>Suite 100<br>815 5th. Ave. SE<br>Minneapolis, MN, 55414, U.S.A.</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "v6HjNAqyqO",
+          "_anchor": "content6-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
