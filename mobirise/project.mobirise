@@ -68,7 +68,7 @@
     "gdpr": false,
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///Volumes/Squid/Users/davidanderson/Documents/Volumes/Squid/Users/davidanderson/Downloads/424apttest/docs"
+    "publishPath": "file:///Volumes/Squid/Users/davidanderson/Downloads/424apttest/docs"
   },
   "pages": {
     "index.html": {
