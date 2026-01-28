@@ -1501,51 +1501,6 @@ a {
   text-align: center;
   color: #232323;
 }
-.cid-v9AbeBpNNI {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/skyline-980x307.jpg");
-}
-.cid-v9AbeBpNNI .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v9AbeBpNNI .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v9AbeBpNNI .card-wrapper {
-  background: #ffffff;
-  border-radius: 4px;
-}
-@media (max-width: 767px) {
-  .cid-v9AbeBpNNI .card-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-v9AbeBpNNI .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-v9AbeBpNNI .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-v9AbeBpNNI .mbr-text,
-.cid-v9AbeBpNNI .mbr-section-btn {
-  color: #767676;
-}
-.cid-v9AbeBpNNI .card-title,
-.cid-v9AbeBpNNI .card-box {
-  text-align: center;
-  color: #232323;
-}
 .cid-v7c3l5QN77 {
   padding-top: 5rem;
   padding-bottom: 0rem;
