@@ -947,7 +947,7 @@ a {
   border-radius: 1.5rem;
   transition: 0.3s all !important;
   min-width: auto;
-  background: #242424;
+  background: #000000;
 }
 .cid-v5Pad5vFtF .nav-item:focus,
 .cid-v5Pad5vFtF .nav-link:focus {
@@ -1104,7 +1104,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v5Pad5vFtF .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #242424;
+  background: #000000;
 }
 .cid-v5Pad5vFtF .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1184,11 +1184,11 @@ a {
 }
 .cid-v5Pad5vFtF .navbar-dropdown {
   padding: 0;
-  background-color: #242424 !important;
+  background-color: #000000 !important;
   position: fixed;
 }
 .cid-v5Pad5vFtF .opacityScroll {
-  background: #242424 !important;
+  background: #000000 !important;
 }
 .cid-v5Pad5vFtF a.nav-link {
   display: flex;
@@ -1273,7 +1273,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #242424;
+    background: #000000;
     backdrop-filter: blur(8px);
   }
   .cid-v5Pad5vFtF .navbar-nav .nav-item .nav-link::after {
