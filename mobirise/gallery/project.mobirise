@@ -1220,7 +1220,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "Master bedroom features sound insulated walls and floor. It has its own separate air conditioner",
                 "active": false
               },
               {
@@ -1233,7 +1233,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "Reverse view of master bedroom. Note 2 separate storage closets.",
                 "active": false
               },
               {
@@ -1246,20 +1246,20 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
-                "active": false
+                "caption": "Text TBD.",
+                "active": true
               },
               {
                 "tags": "Master Bedroom",
                 "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/21-bdrmmaster4-sspx0012-c-1280x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/21-bdrmmaster4-sspx0012-c-1280x960-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21-bdrmmaster4-annaweb%20103-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21-bdrmmaster4-annaweb-103-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Master bedroom has 2 large closets.",
+                "caption": "View of 2 separate large closets in master bedroom. Left is a traditional sized closet. The right can be used as a storage closet.",
                 "active": false
               },
               {
@@ -1272,7 +1272,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "This view shows the entry to the master bedroom and both closets. Note the use of natural woodwork through out.",
                 "active": false
               },
               {
@@ -1285,7 +1285,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "Another view of the master bedroom. Note the trim near the ceiling is called \"picture rails\". Included are movable hooks to hang pictures with wire to avoid damaging the sound blocking walls.",
                 "active": false
               },
               {
@@ -1298,7 +1298,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Master bedroom /w/ separate air conditioning unit. All walls &amp; floor has sound barrier design.",
+                "caption": "Master bedroom /w/ separate air conditioning unit. Note the air circulating vent near the air conditioner. This vent provides air conditioned air to the other bedroom/office/den.",
                 "active": false
               },
               {
@@ -1311,7 +1311,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "This view shows the spacious bedroom &amp; can give viewer idea of furniture placement.",
                 "active": false
               },
               {
@@ -1390,7 +1390,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Hall looking from bedroom toward kitchen. Hall has full length mirror.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Hallway",
