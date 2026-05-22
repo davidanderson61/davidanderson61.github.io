@@ -1118,6 +1118,58 @@
                 "active": false
               },
               {
+                "tags": "Outside",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/10-outside4-annaweb-107-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-outside4-annaweb-107-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Deck recently updated. Door features sunscreen glass.",
+                "active": false
+              },
+              {
+                "tags": "Outside",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/10-outside5-annaweb-109-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-outside5-annaweb-109-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "TBD.",
+                "active": false
+              },
+              {
+                "tags": "Outside",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-110-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-110-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "TBD.",
+                "active": false
+              },
+              {
+                "tags": "Outside",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-108-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-108-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "TBD.",
+                "active": true
+              },
+              {
                 "tags": "Kitchen",
                 "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1245,7 +1297,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Text TBD.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Master Bedroom",
