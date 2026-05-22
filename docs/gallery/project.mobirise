@@ -1102,7 +1102,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Sunken living room features 2 sided view. All windows include newer drapes and curtains.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Outside",
@@ -1127,7 +1127,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "TBD.",
+                "caption": "Text.",
                 "active": false
               },
               {
@@ -1140,7 +1140,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "TBD.",
+                "caption": "Text.",
                 "active": false
               },
               {
@@ -1153,7 +1153,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "TBD.",
+                "caption": "Text.",
                 "active": false
               },
               {
@@ -1167,6 +1167,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Kitchen has ample counter space with newer energy efficient refrigerator &amp; new garbage disposal. New curtain and shades are included.",
+                "active": false
+              },
+              {
+                "tags": "Kitchen",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/11-kitchen2-annaweb-112-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-kitchen2-annaweb-112-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Text.",
                 "active": false
               },
               {
@@ -1192,7 +1205,20 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "... stainless steel range hood/w/back splash &amp; vacuum storage closet. Self cleaning oven has light and timer. Stove, dryer and your head are powered by natural gas.",
+                "caption": "... stainless steel range hood/w/back splash &amp; vacuum storage closet. Self cleaning oven has light and timer. Stove, dryer and your heat are powered by gas.",
+                "active": false
+              },
+              {
+                "tags": "Kitchen",
+                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/13-kitchen5-annaweb-101-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-kitchen5-annaweb-101-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Text.",
                 "active": false
               },
               {
@@ -1466,7 +1492,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Street view of 424 front door.",
-                "active": false
+                "active": true
               }
             ]
           }
