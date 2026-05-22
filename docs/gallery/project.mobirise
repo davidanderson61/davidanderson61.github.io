@@ -1453,15 +1453,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Hall looking from bedroom toward kitchen. Hall has full length mirror.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Hallway",
                 "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/32-hallway2-closet2-296x442.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/32-hallway2-closet2-296x442-296x442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/32-hallway2-closet3-annaweb20102-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32-hallway2-closet3-annaweb20102-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1492,7 +1492,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Street view of 424 front door.",
-                "active": true
+                "active": false
               }
             ]
           }
