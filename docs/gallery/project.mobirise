@@ -1102,20 +1102,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Sunken living room features 2 sided view. All windows include newer drapes and curtains.",
-                "active": false
-              },
-              {
-                "tags": "Outside",
-                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/09-outside2-07-lr4-285x442.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/09-outside2-07-lr4-285x442-285x442.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Deck recently updated. Door features sunscreen glass.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Outside",
@@ -1167,7 +1154,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "TBD.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Kitchen",
