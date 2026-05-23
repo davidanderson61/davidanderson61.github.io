@@ -1101,7 +1101,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Sunken living room features 2 sided view. All windows include newer drapes and curtains.",
+                "caption": "Sunken living room features 3 sided view. All windows include newer drapes and curtains.",
                 "active": false
               },
               {
@@ -1127,21 +1127,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
-                "active": false
-              },
-              {
-                "tags": "Outside",
-                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-110-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-outside6-annaweb-110-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Text.",
-                "active": false
+                "caption": "View of the deck from living room.",
+                "active": true
               },
               {
                 "tags": "Outside",
@@ -1153,7 +1140,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "View to the south of the backyard and 5th Ave.",
                 "active": false
               },
               {
@@ -1179,7 +1166,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "Kitchen has large pantry.",
                 "active": false
               },
               {
@@ -1218,7 +1205,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "There is a broom closet to the left of the refrigerator. This is a good place to store cleaning supplies and a small vacuum.",
                 "active": false
               },
               {
@@ -1244,7 +1231,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Bathroom window with vertical blind gives natural light to the sink/counter top. Note the antique light fixture TBD.",
+                "caption": "Bathroom features custom built vanity/countertop. Note the antique light fixtures.",
                 "active": false
               },
               {
@@ -1257,8 +1244,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Bathroom window with vertical blind gives natural light to the sink/counter top. Note the antique light fixture.",
-                "active": true
+                "caption": "Bathroom window with vertical blind gives natural light to the sink/countertop.",
+                "active": false
               },
               {
                 "tags": "Bathroom",
@@ -1335,7 +1322,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "View of 2 separate large closets in master bedroom. Left is a traditional sized closet. The right can be used as a storage closet.",
+                "caption": "Close up view of 2 separate large closets in master bedroom. Left is a traditional sized closet. The right can be used as a storage closet.",
                 "active": false
               },
               {
@@ -1361,7 +1348,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Another view of the master bedroom. Note the trim near the ceiling is called \"picture rails\". Included are movable hooks to hang pictures with wire to avoid damaging the sound blocking walls.",
+                "caption": "The trim near the ceiling is called \"picture rails\". Included are movable hooks to hang pictures with wire to avoid damaging the sound blocking walls.",
                 "active": false
               },
               {
@@ -1439,7 +1426,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Text.",
+                "caption": "Door to the left leads to the small bedroom/office space closet.",
                 "active": false
               },
               {
@@ -1478,7 +1465,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Hall looking from bedroom toward kitchen. Hall has full length mirror.",
+                "caption": "Hall looking from small bedroom toward the kitchen. Hall has full length mirror.",
                 "active": false
               },
               {
