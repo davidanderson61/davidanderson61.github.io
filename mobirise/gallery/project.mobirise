@@ -1130,7 +1130,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "View of the deck from living room.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Outside",
@@ -1402,21 +1402,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Opposite view of small bedroom. Door to the left leads to the bedroom closet. This room also features a picture rail for use in hanging pictures or artwook.",
-                "active": false
-              },
-              {
-                "tags": "Office/Den/Bedroom",
-                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/28-bdrmoffice3-annaweb%252021-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/28-bdrmoffice3-annaweb2021-2000x1334-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Dor to the ldef leads to the bedroom closet. TBD",
-                "active": false
+                "caption": "Opposite view of small bedroom. Door to the left leads to the bedroom closet. This room also features a picture rail for use in hanging pictures or artwork.",
+                "active": true
               },
               {
                 "tags": "Office/Den/Bedroom",
