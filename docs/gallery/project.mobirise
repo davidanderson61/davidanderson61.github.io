@@ -1297,20 +1297,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Reverse view of master bedroom. Note 2 separate storage closets.",
-                "active": false
-              },
-              {
-                "tags": "Master Bedroom",
-                "videoPreview": "@ADDONS_PATH@/mobirise4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20-bdrmmaster3-annaweb2010-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20-bdrmmaster3-annaweb2010-2000x1334-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Text TBD.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Master Bedroom",
@@ -1323,7 +1310,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Close up view of 2 separate large closets in master bedroom. Left is a traditional sized closet. The right can be used as a storage closet.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Master Bedroom",
