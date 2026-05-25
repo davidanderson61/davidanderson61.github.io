@@ -1323,7 +1323,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Close up view of 2 separate large closets in master bedroom. Left is a traditional sized closet. The right can be used as a storage closet.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Master Bedroom",
@@ -1401,7 +1401,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Opposite view of small bedroom. Door to the left leads to the bedroom closet. This room also features a picture rail for use in hanging pictures or artwork.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Office/Den/Bedroom",
